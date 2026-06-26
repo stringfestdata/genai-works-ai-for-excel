@@ -145,11 +145,10 @@ To get the most out of the materials:
 
 ## About the Instructor
 
-George Mount is a Microsoft Excel MVP, analytics author, and founder of Stringfest Analytics. He is the author of *Advancing into Analytics* and *Modern Data Analytics in Excel*, both published by O'Reilly, and has taught Excel, analytics, and AI-powered productivity to hundreds of thousands of learners through LinkedIn Learning, corporate training, and live workshops.
+George Mount is a Microsoft Excel MVP and analytics author. He is the author of *Advancing into Analytics* and *Modern Data Analytics in Excel*, both published by O'Reilly, and has taught Excel, analytics, and AI-powered productivity to hundreds of thousands of learners through online courses, corporate training, and live workshops.
 
-Through Stringfest Analytics, George helps finance and operations professionals modernize how they work in Excel using Power Query, Python in Excel, Copilot, and other AI-assisted tools.
+He helps finance and operations professionals modernize how they work in Excel using Power Query, Python in Excel, Copilot, and other AI-assisted tools.
 
-Website: https://stringfestanalytics.com
 LinkedIn: https://www.linkedin.com/in/gjmount/
 
 ## Notes on AI Use
