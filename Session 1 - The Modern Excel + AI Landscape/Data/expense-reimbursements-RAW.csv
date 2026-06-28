@@ -1,0 +1,201 @@
+﻿Expense Reimbursements Export - CONFIDENTIAL
+Generated 04/03/2025 - Source: ExpenseSys
+
+Report ID,Submit Date,Employee,Department,Category,Amount,Status
+EXP-4069,2025-02-23,John Park,Engineering Dept,Lodging,"$1,752.06",Approved
+EXP-4103,2025-03-18,"Kim, Grace",Operations ,Lodging,"$1,886.60",Approved
+EXP-4184,Jan 24 2025,Dan Cole, Marketing,Meals,"$2,053.66",Approved
+EXP-4149,2025-03-31,Priya Shah,Engineering Dept,Supplies,"$2,019.31",Approved
+EXP-4077,2025-02-27,"Lopez, Maria",,Supplies,"$2,177.37",Rejected
+EXP-4080,2025-01-28,John Park,Ops,Software,"$1,281.91",Approved
+EXP-4162,Mar 30 2025,"Haddad, Omar",Sales Dept,Meals,"$1,287.42",Approved
+EXP-4098,1/5/2025,"Ricci, Sofia",Eng,Supplies,$121.54,Approved
+EXP-4111,27-Mar-25,Aisha Noor,Ops,Supplies,"$1,457.23",Approved
+EXP-4146,2025-01-16,"Zhang, Wei",Mktg,Meals,"$1,554.55",Approved
+EXP-4050,Mar 11 2025,Omar Haddad,Engineering,Supplies,"$1,584.21",Pending
+EXP-4171,3/3/2025,"Reed, Tom",Eng,Lodging,"$2,042.42",Rejected
+EXP-4114,2/20/2025,"Lopez, Maria",Engineering Dept,Travel,$994.40,Approved
+EXP-4163,1/22/2025,Priya Shah,Sales Dept,Software,"$1,787.22",Approved
+EXP-4127,2025-02-25,Wei Zhang,,Travel,$330.08,Pending
+EXP-4057,2025-03-05,"Noor, Aisha",Sales Dept,Lodging,"$1,736.61",Rejected
+EXP-4117,2025-01-12,"Reed, Tom",Marketing Dept,Meals,"$1,031.42",Approved
+EXP-4136,23-Mar-25,Grace Kim,Mktg,Software,,Rejected
+EXP-4164,2025-02-04,"Kim, Grace",Operations ,Meals,"$1,230.80",Rejected
+EXP-4151,14-Feb-25,"Zhang, Wei",Marketing,Software,"$2,231.25",Approved
+EXP-4051,2025-03-23,Omar Haddad,sales,Lodging,$496.73,Approved
+EXP-4148,2025-02-11,"Park, John",sales,Meals,"$1,797.11",Pending
+EXP-4119,1/21/2025,Maria Lopez,Ops,Meals,$851.37,Approved
+EXP-4022,2025-03-09,"Haddad, Omar",Ops,Software,"$2,196.10",Approved
+EXP-4046,2025-02-28,Maria Lopez,Sales,Lodging,"$2,074.09",Rejected
+EXP-4140,2/1/2025,"Zhang, Wei",Eng,Meals,$58.52,Pending
+EXP-4072,Jan 07 2025,Maria Lopez,engineering,Travel,$691.51,Approved
+EXP-4116,2/16/2025,John Park,Operations ,Supplies,$68.26,Pending
+EXP-4051,2025-03-23,Omar Haddad,,Lodging,forty,Approved
+EXP-4044,3/7/2025,Tom Reed,Operations ,Meals,"$1,299.42",Approved
+EXP-4161,2025-02-08,Tom Reed,Marketing Dept,Travel,$908.38,Rejected
+EXP-4165,2025-01-21,Wei Zhang,Sls,Software,"$1,265.17",Approved
+EXP-4067,2025-03-09,Dan Cole,Sales,Software,$239.47,Approved
+EXP-4130,2025-01-29,"Noor, Aisha",engineering,Meals,"$1,654.57",Approved
+EXP-4099,12-Feb-25,"Cole, Dan", Marketing,Lodging,$887.06,Rejected
+EXP-4163,1/22/2025,Priya Shah,Sales Dept,Software,"$1,787.22",Approved
+EXP-4090,2025-01-25,"Haddad, Omar",Eng,Lodging,"$1,843.91",Approved
+EXP-4178,3/13/2025,"Ricci, Sofia",,Meals,"$1,139.25",Approved
+EXP-4010,3/2/2025,Grace Kim,Engineering,Travel,"$2,268.62",Approved
+EXP-4056,2025-02-20,Maria Lopez,marketing,Supplies,"$1,418.65",Approved
+EXP-4136,23-Mar-25,Grace Kim,Mktg,Software,$627.42,Rejected
+EXP-4168,2/7/2025,Tom Reed,Eng,Software,"$2,354.59",Approved
+EXP-4095,23-Feb-25,"Ricci, Sofia",Marketing,Lodging,$216.81,Approved
+EXP-4138,2025-01-06,Priya Shah,Sales Dept,Meals,"$1,479.73",Approved
+EXP-4029,2025-01-04,Sofia Ricci,marketing,Meals,"$2,383.64",Pending
+EXP-4026,1/30/2025,Sofia Ricci,operations,Travel,$548.60,Approved
+EXP-4141,2025-01-02,"Lopez, Maria",Sls,Supplies,"$1,952.48",Rejected
+EXP-4053,2025-01-24,Omar Haddad,Ops,Lodging,$132.44,Pending
+EXP-4063,2/2/2025,John Park,Sales,Software,$375.13,Approved
+EXP-4089,2025-01-26,"Ricci, Sofia",Operations ,Lodging,"$1,646.10",Approved
+EXP-4062,2025-02-18,"Cole, Dan",sales,Supplies,"$1,198.13",Approved
+EXP-4066,Jan 10 2025,Aisha Noor,Marketing Dept,Travel,$712.77,Pending
+EXP-4058,Mar 14 2025,"Zhang, Wei",Eng,Software,"$1,813.06",Approved
+EXP-4032,2025-01-17,Dan Cole,operations,Software,"$1,020.15",Approved
+EXP-4004,2025-03-15,Omar Haddad,Operations ,Meals,"$1,309.13",Approved
+EXP-4038,2025-03-27,"Ricci, Sofia",Marketing Dept,Supplies,$775.45,Approved
+EXP-4021,2/3/2025,Sofia Ricci,marketing,Travel,,Approved
+EXP-4150,2025-03-16,Tom Reed,Sls,Meals,$954.96,Approved
+EXP-4166,20-Jan-25,Dan Cole,marketing,Travel,$489.15,Approved
+EXP-4169,2/25/2025,Dan Cole,Engineering,Meals,"$2,181.51",Rejected
+EXP-4021,2/3/2025,Sofia Ricci,marketing,Travel,"$1,805.48",Approved
+EXP-4003,07-Jan-25,"Kim, Grace",Sales,Software,"$1,415.66",Approved
+EXP-4121,1/21/2025,"Shah, Priya",Engineering,Software,"$1,659.51",Approved
+EXP-4100,18-Mar-25,John Park,operations,Lodging,$33.96,Approved
+EXP-4097,2025-02-27,"Lopez, Maria",Eng,Lodging,"$1,311.13",Approved
+EXP-4034,1/16/2025,Wei Zhang,sales,Meals,"$1,149.55",Approved
+EXP-4040,25-Feb-25,Maria Lopez,Eng,Meals,$408.48,Pending
+EXP-4018,2025-03-18,"Noor, Aisha",Sales Dept,Meals,$286.08,Approved
+EXP-4048,2025-01-27,"Cole, Dan",Sls,Lodging,"$1,286.33",Rejected
+EXP-4173,Jan 13 2025,John Park,sales,Meals,"$1,258.15",Pending
+EXP-4153,2025-01-27,Omar Haddad,Marketing Dept,Travel,$610.62,Approved
+EXP-4175,1/16/2025,Aisha Noor,Sales Dept,Software,"$1,836.42",Rejected
+EXP-4005,1/9/2025,Maria Lopez,Sls,Travel,"$1,325.89",Rejected
+EXP-4024,2025-01-30,Grace Kim,sales,Supplies,"$1,782.20",Pending
+EXP-4013,2025-03-12,Tom Reed,Engineering,Meals,"$1,091.82",Approved
+EXP-4023,2025-03-06,Dan Cole,Sls,Meals,"$1,289.91",Approved
+EXP-4059,2025-03-23,Grace Kim,Sales,Travel,$124.42,Approved
+EXP-4185,19-Mar-25,"Zhang, Wei",Eng,Software,"$2,141.45",Approved
+EXP-4028,2025-03-23,Tom Reed,Sales Dept,Meals,"$1,055.57",Pending
+EXP-4011,2025-03-27,John Park,Operations ,Lodging,"$1,726.99",Pending
+EXP-4077,2025-02-27,"Lopez, Maria",Eng,Supplies,"$2,177.37",Rejected
+EXP-4081,2025-01-03,Tom Reed,Engineering Dept,Lodging,"$2,040.62",Pending
+EXP-4019,1/27/2025,"Kim, Grace",Mktg,Software,$85.56,Approved
+EXP-4086,2025-02-28,Tom Reed,Marketing,Software,$741.11,Approved
+EXP-4049,3/6/2025,Wei Zhang,Mktg,Travel,$61.45,Approved
+EXP-4079,2025-01-27,Aisha Noor,Engineering Dept,Supplies,"$1,796.37",Approved
+EXP-4147,2025-01-28,John Park,engineering,Lodging,"$1,549.76",Rejected
+EXP-4123,2025-01-25,Wei Zhang,marketing,Meals,"$2,330.39",Rejected
+EXP-4159,2025-03-31,Sofia Ricci,Ops,Lodging,"$1,961.20",Approved
+EXP-4155,1/7/2025,Priya Shah,Mktg,Lodging,"$2,233.98",Approved
+EXP-4078,2025-01-31,"Noor, Aisha",Sls,Software,$241.35,Rejected
+EXP-4061,2025-03-02,Maria Lopez, Marketing,Travel,"$1,796.10",Approved
+EXP-4115,2/6/2025,"Haddad, Omar",Sales Dept,Lodging,$998.25,Pending
+EXP-4106,2025-03-28,"Ricci, Sofia",Sales Dept,Supplies,"$1,498.23",Rejected
+EXP-4001,2025-01-13,Priya Shah,Engineering,Travel,"$1,975.53",Approved
+EXP-4133,2025-03-09,Dan Cole,Eng,Lodging,$298.31,Approved
+EXP-4152,Mar 17 2025,"Park, John",Marketing,Travel,$181.19,Approved
+EXP-4118,Mar 24 2025,Sofia Ricci,Sales,Travel,"$1,334.93",Pending
+EXP-4007,Mar 05 2025,Wei Zhang,Sales,Software,$738.09,Pending
+EXP-4074,2/22/2025,John Park,Eng,Travel,$142.51,Approved
+EXP-4070,16-Jan-25,Maria Lopez,Mktg,Lodging,"$2,017.89",Approved
+EXP-4105,2025-01-27,Wei Zhang,Marketing,Lodging,"$1,508.43",Pending
+EXP-4071,19-Feb-25,John Park,operations,Lodging,$179.32,Rejected
+EXP-4160,2025-03-22,Maria Lopez,Marketing Dept,Software,"$1,893.97",Approved
+EXP-4052,2025-01-08,John Park,Marketing,Lodging,"$1,048.01",Pending
+EXP-4158,2025-03-04,Wei Zhang,Sls,Travel,$35.36,Approved
+EXP-4101,Feb 19 2025,John Park,Marketing Dept,Supplies,"$2,290.54",Pending
+EXP-4156,2025-02-22,Priya Shah,engineering,Software,"$1,795.93",Rejected
+EXP-4082,Mar 09 2025,Sofia Ricci,Engineering,Travel,$954.86,Pending
+EXP-4167,2/19/2025,Dan Cole,Sales,Travel,$691.91,Approved
+EXP-4017,3/3/2025,Sofia Ricci,Engineering Dept,Supplies,$961.04,Approved
+EXP-4039,18-Jan-25,Aisha Noor,marketing,Lodging,$364.58,Approved
+EXP-4092,2025-01-07,Tom Reed, Marketing,Meals,"$2,214.57",Rejected
+EXP-4041,2025-01-03,Priya Shah,operations,Travel,"$1,740.11",Pending
+EXP-4144,2025-02-09,"Noor, Aisha",Sales Dept,Software,$439.77,Approved
+EXP-4129,3/20/2025,"Lopez, Maria",Eng,Travel,"$2,060.54",Approved
+EXP-4016,07-Mar-25,"Park, John",operations,Meals,"$1,664.92",Approved
+EXP-4102,Feb 08 2025,"Ricci, Sofia",Eng,Travel,"$1,931.10",Approved
+EXP-4178,3/13/2025,"Ricci, Sofia",Sales,Meals,"$1,139.25",Approved
+EXP-4084,1/5/2025,Maria Lopez,Marketing,Meals,$577.37,Approved
+EXP-4027,Jan 11 2025,Aisha Noor,Marketing Dept,Lodging,"$1,924.15",Approved
+EXP-4045,1/3/2025,Maria Lopez,Sales Dept,Travel,$663.69,Approved
+EXP-4179,2025-03-25,Priya Shah,Engineering Dept,Lodging,"$1,829.73",Pending
+EXP-4137,2025-03-22,Priya Shah,marketing,Meals,$716.06,Rejected
+EXP-4035,2025-01-25,Omar Haddad,Engineering,Software,$159.95,Approved
+EXP-4134,2/20/2025,Sofia Ricci,Mktg,Software,"$1,520.72",Approved
+EXP-4176,2025-01-02,Priya Shah,operations,Supplies,$974.25,Pending
+EXP-4104,3/3/2025,Tom Reed,Sales Dept,Travel,"$1,567.67",Approved
+EXP-4172,04-Mar-25,Tom Reed,Sls,Travel,$948.18,Approved
+EXP-4091,Jan 24 2025,Dan Cole,Operations,Software,"$1,202.44",Pending
+EXP-4132,2025-01-26,"Ricci, Sofia",Ops,Lodging,$909.13,Approved
+EXP-4075,2025-02-06,Dan Cole,sales,Supplies,"$1,010.31",Approved
+EXP-4014,18-Feb-25,Tom Reed,Operations ,Lodging,"$1,646.47",Approved
+EXP-4065,16-Jan-25,Sofia Ricci,Operations ,Supplies,"$1,132.56",Rejected
+EXP-4109,2025-01-05,Tom Reed,sales,Travel,"$1,576.65",Pending
+EXP-4142,2025-01-01,Priya Shah,Engineering Dept,Meals,$417.11,Rejected
+EXP-4112,2025-01-19,Grace Kim,Ops,Travel,$900.68,Approved
+EXP-4073,Feb 17 2025,"Zhang, Wei",Operations ,Software,$774.55,Pending
+EXP-4054,2025-02-09,John Park,operations,Meals,$106.81,Approved
+EXP-4135,2025-01-11,Dan Cole,Ops,Lodging,$810.72,Approved
+EXP-4141,2025-01-02,"Lopez, Maria",Sls,Supplies,"$1,952.48",Rejected
+EXP-4088,24-Feb-25,Aisha Noor,Engineering,Lodging,$566.12,Approved
+EXP-4094,Feb 18 2025,Wei Zhang,Sales Dept,Travel,$765.59,Approved
+EXP-4174,2/22/2025,"Haddad, Omar",Engineering,Lodging,"$1,264.01",Pending
+EXP-4087,2025-03-25,Aisha Noor,sales,Travel,"$2,306.46",Approved
+EXP-4033,2025-03-07,Sofia Ricci,Eng,Software,$385.61,Pending
+EXP-4107,2025-02-17,Maria Lopez,operations,Lodging,"$1,371.35",Approved
+EXP-4055,2025-01-26,John Park,Marketing Dept,Lodging,"$1,219.06",Approved
+EXP-4009,2025-02-10,"Reed, Tom", Marketing,Software,"$1,899.10",Approved
+EXP-4181,2/11/2025,John Park,operations,Meals,"$1,579.21",Pending
+EXP-4125,2/27/2025,Tom Reed,Sales Dept,Supplies,"$1,589.75",Approved
+EXP-4183,2025-01-02,Priya Shah,Sls,Software,$60.59,Approved
+EXP-4131,2025-02-28,Grace Kim,Sls,Software,$678.11,Rejected
+EXP-4025,3/30/2025,Priya Shah,Mktg,Supplies,$640.54,Approved
+EXP-4085,09-Mar-25,Wei Zhang,Engineering,Travel,$192.09,Approved
+EXP-4012,2025-02-06,"Shah, Priya",Marketing Dept,Travel,$543.24,Approved
+EXP-4157,1/12/2025,Maria Lopez, Marketing,Software,$539.36,Approved
+EXP-4006,2025-02-28,Aisha Noor,engineering,Supplies,"$1,415.71",Approved
+EXP-4008,2025-02-13,Dan Cole,Marketing,Software,"$1,018.04",Pending
+EXP-4093,2/10/2025,Wei Zhang,marketing,Supplies,"$1,092.90",Approved
+EXP-4047,31-Jan-25,Tom Reed,Ops,Travel,"$1,276.42",Approved
+EXP-4020,04-Mar-25,Dan Cole,Operations ,Travel,$298.96,Pending
+EXP-4051,2025-03-23,Omar Haddad,,Lodging,$496.73,Approved
+EXP-4110,2025-01-07,Aisha Noor,Operations,Lodging,$578.12,Rejected
+EXP-4096,Feb 09 2025,Omar Haddad,Sales Dept,Lodging,"$1,850.74",Pending
+EXP-4170,2025-02-10,Tom Reed,sales,Travel,"$1,103.02",Approved
+EXP-4076,2025-01-16,Tom Reed,Operations ,Software,"$1,613.58",Approved
+EXP-4177,09-Mar-25,Priya Shah,marketing,Lodging,"$1,785.99",Pending
+EXP-4145,2025-03-01,Sofia Ricci,Marketing Dept,Supplies,"$1,794.82",Pending
+EXP-4182,2025-01-08,Grace Kim,Ops,Lodging,"$2,054.31",Rejected
+EXP-4083,2025-03-29,Aisha Noor,sales,Meals,"$1,265.62",Pending
+EXP-4042,07-Mar-25,Sofia Ricci,engineering,Software,"$1,506.83",Approved
+EXP-4002,1/12/2025,"Haddad, Omar",Marketing Dept,Supplies,$190.91,Approved
+EXP-4154,2025-03-24,Maria Lopez,Operations ,Travel,$340.05,Approved
+EXP-4139,2/22/2025,Grace Kim, Marketing,Lodging,"$1,293.52",Rejected
+EXP-4043,2025-01-24,Aisha Noor,Marketing,Lodging,$670.81,Approved
+EXP-4128,Feb 10 2025,Omar Haddad,Marketing,Meals,$220.32,Rejected
+EXP-4064,2025-03-28,Grace Kim,Marketing Dept,Travel,"$1,178.77",Approved
+EXP-4126,Mar 21 2025,"Park, John",Engineering Dept,Meals,"$1,086.19",Pending
+EXP-4180,2/24/2025,Priya Shah,Sls,Supplies,"$1,657.70",Pending
+EXP-4037,03-Feb-25,Dan Cole,Eng,Software,"$2,106.77",Approved
+EXP-4120,06-Jan-25,Maria Lopez,Sls,Meals,"$2,013.57",Pending
+EXP-4124,Mar 12 2025,John Park,Operations,Supplies,"$1,448.86",Approved
+EXP-4015,2025-03-17,"Lopez, Maria",sales,Travel,"$1,176.79",Approved
+EXP-4055,2025-01-26,John Park,Marketing Dept,Lodging,,Approved
+EXP-4127,2025-02-25,Wei Zhang,Engineering,Travel,$330.08,Pending
+EXP-4122,2025-01-06,Grace Kim,Sales Dept,Meals,"$1,367.89",Rejected
+EXP-4036,3/6/2025,Omar Haddad,Marketing,Supplies,$798.33,Approved
+EXP-4060,2025-03-04,Tom Reed,Marketing,Software,"$1,641.58",Pending
+EXP-4108,2025-03-16,Aisha Noor,sales,Meals,$389.14,Approved
+EXP-4068,2025-03-04,Wei Zhang,Operations,Lodging,$574.54,Approved
+EXP-4031,2025-01-28,Omar Haddad,Sales Dept,Meals,"$1,987.12",Approved
+EXP-4143,2025-01-14,John Park,sales,Travel,"$2,190.39",Rejected
+EXP-4030,2025-01-17,Wei Zhang,engineering,Meals,"$1,328.07",Approved
+EXP-4172,04-Mar-25,Tom Reed,Sls,Travel,$948.18,Approved
+EXP-4113,2025-02-17,John Park,Sales,Lodging,$996.36,Approved
+,,,TOTAL,,,"$230,400.34"
