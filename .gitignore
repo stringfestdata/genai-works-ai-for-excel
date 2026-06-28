@@ -1,0 +1,10 @@
+# Local MCP / build tooling — personal to the slide-authoring workflow,
+# not part of the course kit. Keep out of the public repo.
+.mcp.json
+
+# Office temp lock files
+~$*
+
+# OS cruft
+.DS_Store
+Thumbs.db

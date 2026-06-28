@@ -26,7 +26,7 @@ Success the biggest underspend (~−9%); total ~+3.3% over budget.
 
 Solution code for all three roads: `solutions/session-2-formulas-python-solution.md`.
 
-## Part 2 — Ask a *new* question (required)
+## Part 2 — Ask a new question (required)
 
 Pose one question the slides didn't answer — e.g. *"Which month was worst across
 all departments?"* or *"Which category drives Marketing's overspend?"* (use the
