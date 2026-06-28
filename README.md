@@ -125,37 +125,38 @@ manual work while still reviewing and understanding the results.
 
 ## How This Repository Is Organized
 
-**Instructor‑only materials** live in one folder. **Student‑facing materials** are
-grouped **by session**. Shared references sit in `Course Overview`.
+**Cross‑session instructor docs** live in `Instructor Notes`. Each **session
+folder** holds that session's materials (exercise, solution, data). Shared
+references sit in `Course Overview`.
 
 ```
-Instructor Notes/                        (everything the instructor teaches from)
+Instructor Notes/                        (general instructor docs)
    Facilitator Guide.docx                course logistics + how to run it
-   In-Session Practice.docx              the "your turn" guided activities
+   In-Session Practice.docx              demo / your turn / regroup activities
    Read-Aloud Scripts.docx               per-slide delivery scripts
    Slack and Logistics.docx              running the cohort + Slack playbook
    Session 1 - Run of Show.docx          minute-by-minute plans
-   Session 1 - Solution (Power Query).docx   worked answers (instructor keys)
-   Session 1 - Power Query M Code.m
    Session 2 - Run of Show.docx
-   Session 2 - Solution (Formulas & Python).docx
    Session 3 - Run of Show.docx
-   Session 3 - Solution (Reusable Workflow).docx
 
 Course Overview/                         (shared references, all sessions)
    Prompt Cheat Sheet.docx               copy-paste prompts for every tool
    Data Dictionary.docx                  what every dataset contains
 
-Session 1 - The Modern Excel + AI Landscape/     (student-facing)
-   Exercise.docx                         the async assignment
-   Data/                                 regional-sales-RAW (csv + xlsx)
+Session 1 - The Modern Excel + AI Landscape/
+   Exercise.docx                         the take-home exercise
+   Session 1 - Solution (Power Query).docx   worked answer (instructor key)
+   Session 1 - Power Query M Code.m      paste-ready query
+   Data/                                 regional-sales-RAW.csv
 
 Session 2 - Formulas, Analysis & Summaries/
    Exercise.docx
+   Session 2 - Solution (Formulas & Python).docx
    Data/                                 budget-vs-actual.xlsx
 
 Session 3 - Build & Ship a Reusable Workflow/
    Capstone Brief.docx                   the final project + rubric
+   Session 3 - Solution (Reusable Workflow).docx
    Data/                                 monthly-expenses/, vendor-master, start file
 ```
 
