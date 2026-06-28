@@ -52,6 +52,34 @@ task (clean it themselves) is the real outcome — protect time for the hand-off
 
 Safety net: if a step fights you live, the exact M is in `solutions/session-1-query.m`.
 
+## Expanded 90‑minute plan (recommended)
+
+Session 1's concepts present fast, so without hands‑on it can finish early. This
+version adds ~25 minutes of real activity and turns the clean‑up from a demo into
+a workshop. It assumes three small new slides (drop them in after the landscape):
+
+- **"What makes data messy?"** — the 9 problems in the file (agenda/list layout)
+- **"Your turn: clean it with me"** — the guided 5‑step mini‑clean (live‑demo layout)
+- **"Read the recorded steps"** — Applied Steps = your workflow (statement layout)
+
+| Time | Min | Segment | Notes |
+|---|---|---|---|
+| 0:00 | 5 | Welcome + premise | As before. |
+| 0:05 | 7 | Landscape + trust | Four tools, four jobs; what AI does well / where to check. |
+| 0:12 | 6 | Set up your toolkit | Get everyone to a `=PY(` cell, a Copilot button, or an assistant tab. |
+| 0:18 | 5 | **Spot the mess** (Activity A) | Chat: call out everything wrong with the raw file. Tally 9 problems. |
+| 0:23 | 15 | **Clean it with me** (Activity B) | Learners do the first 5 steps live; AI‑maps the regions together. |
+| 0:38 | 12 | Finish the clean (demo) | You drive dedupe, the `two` error, the TOTAL row; validate ≈248 rows / $555K. |
+| 0:50 | 5 | **Read the recorded steps** (Activity C) | Applied Steps = the workflow; AI explains one M step. |
+| 0:55 | 4 | Connect, don't paste | The one habit. Then click Refresh to prove it. |
+| 0:59 | 6 | Responsible AI use | The guardrails. Practical, not preachy. |
+| 1:05 | 4 | Key takeaways | One‑word chat recap. |
+| 1:09 | 4 | Assignment | Clean the file solo; post row count + total to Slack. |
+| 1:13 | 17 | Q&A / troubleshooting | Help people whose clean broke; setup stragglers. |
+
+**Total activity/content: ~73 min. Q&A/buffer: ~17 min.** Activities A–C are in
+[`in-session-practice.md`](in-session-practice.md).
+
 ## Common questions
 
 - *"Do I need Copilot for this course?"* No — only for flagged moments. Power
