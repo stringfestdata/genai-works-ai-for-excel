@@ -106,32 +106,61 @@ Practice work:
 
 ## Capstone Project
 
-The final project is a working AI-assisted Excel workflow.
+The final project is a working AI-assisted Excel workflow built on your own data.
+It is the point of the course, not optional extra credit. Full details and the
+grading rubric are in `Session 3 - Build & Ship a Reusable Workflow/Capstone Brief.docx`.
 
-Examples include:
+**How it works:**
 
-* A monthly reporting refresh
-* A repeatable data-cleaning pipeline
-* A formula troubleshooting and documentation workflow
-* A summary report built from raw data
-* A simple analysis workflow using Python in Excel
+* **Started in Session 3** — class reserves time to begin building on your own (anonymized) data.
+* **Finished on your own** in the days after Session 3.
+* **Submitted by posting in the Slack `#capstones` channel** by the deadline (suggested: one week after Session 3) — your workbook (or a short screen recording), your run-book, and one line on where you still review the AI by hand.
+* **Not presented live** — there is no fourth session; sharing happens asynchronously in Slack, with peer feedback encouraged. (An optional voluntary "demo day" call is up to the instructor.)
+* **Graded against four criteria:** it repeats, AI was used well, it's documented, and you understand it.
 
-The project should demonstrate that you can use AI and modern Excel tools to reduce manual work while still reviewing and understanding the results.
+Examples: a monthly reporting refresh, a repeatable data-cleaning pipeline, a
+summary report from raw data, or a formula troubleshooting and documentation
+workflow. The project should show you can use AI and modern Excel to reduce
+manual work while still reviewing and understanding the results.
 
-## Repository Contents
+## How This Repository Is Organized
 
-This repository may include:
+**Instructor‑only materials** live in one folder. **Student‑facing materials** are
+grouped **by session**. Shared references sit in `Course Overview`.
 
-* Sample datasets
-* Excel workbooks
-* Power Query examples
-* Python in Excel examples
-* Prompt examples
-* Exercise instructions
-* Capstone project guidance
-* Additional resources
+```
+Instructor Notes/                        (everything the instructor teaches from)
+   Facilitator Guide.docx                course logistics + how to run it
+   In-Session Practice.docx              the "your turn" guided activities
+   Read-Aloud Scripts.docx               per-slide delivery scripts
+   Slack and Logistics.docx              running the cohort + Slack playbook
+   Session 1 - Run of Show.docx          minute-by-minute plans
+   Session 1 - Solution (Power Query).docx   worked answers (instructor keys)
+   Session 1 - Power Query M Code.m
+   Session 2 - Run of Show.docx
+   Session 2 - Solution (Formulas & Python).docx
+   Session 3 - Run of Show.docx
+   Session 3 - Solution (Reusable Workflow).docx
 
-Exact contents may vary as the course evolves.
+Course Overview/                         (shared references, all sessions)
+   Prompt Cheat Sheet.docx               copy-paste prompts for every tool
+   Data Dictionary.docx                  what every dataset contains
+
+Session 1 - The Modern Excel + AI Landscape/     (student-facing)
+   Exercise.docx                         the async assignment
+   Data/                                 regional-sales-RAW (csv + xlsx)
+
+Session 2 - Formulas, Analysis & Summaries/
+   Exercise.docx
+   Data/                                 budget-vs-actual.xlsx
+
+Session 3 - Build & Ship a Reusable Workflow/
+   Capstone Brief.docx                   the final project + rubric
+   Data/                                 monthly-expenses/, vendor-master, start file
+```
+
+Slides are delivered separately in the GenAI Works Academy "AI for Excel Slides"
+file. All datasets are synthetic.
 
 ## Suggested Workflow
 
