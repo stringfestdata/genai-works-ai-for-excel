@@ -125,40 +125,43 @@ manual work while still reviewing and understanding the results.
 
 ## How This Repository Is Organized
 
-**Cross‑session instructor docs** live in `Instructor Notes`. Each **session
-folder** holds that session's materials (exercise, solution, data). Shared
-references sit in `Course Overview`.
+Each session has **two source-of-truth docs**: a **Facilitator Guide** (run the
+session from this) in `Instructor Notes`, and a **Participant Guide** (learner
+companion: demo recap + their exercise) in the session folder. Shared references
+sit in `Course Overview`.
 
 ```
-Instructor Notes/                        (general instructor docs)
-   How to Run the Demos (Step-by-Step).docx   START HERE: click-by-click script per session
-   Facilitator Guide.docx                course logistics + how to run it
-   Backup Plans & Time-Fillers.docx      quiet-room insurance + Copilot "by the way"
+Instructor Notes/                        (instructor docs)
+   Session 1 - Facilitator Guide.docx    RUN THE SESSION FROM THIS: demo (you) →
+   Session 2 - Facilitator Guide.docx      practice (them) → regroup, with click-by-
+   Session 3 - Facilitator Guide.docx      click steps, targets, fillers, Copilot aside
+   Course Logistics & Prep.docx          course-level logistics, prep, community
    Read-Aloud Scripts.docx               per-slide delivery scripts
    Slack and Logistics.docx              running the cohort + Slack playbook
-   Session 1 - Run of Show.docx          slide timing (light; run from the demo script)
-   Session 2 - Run of Show.docx
-   Session 3 - Run of Show.docx
 
 Course Overview/                         (shared references, all sessions)
    Prompt Cheat Sheet.docx               copy-paste prompts for every tool
    Data Dictionary.docx                  what every dataset contains
 
 Session 1 - The Modern Excel + AI Landscape/
-   Exercise.docx                         the take-home exercise
+   Participant Guide.docx                learner companion: demo recap + exercise
    Session 1 - Solution (Power Query).docx   worked answer (instructor key)
    Session 1 - Power Query M Code.m      paste-ready query
-   Data/                                 regional-sales-RAW.csv
+   Data/                                 regional-sales-RAW.csv (demo) +
+                                         expense-reimbursements-RAW.csv (your turn)
 
 Session 2 - Formulas, Analysis & Summaries/
-   Exercise.docx
+   Participant Guide.docx
    Session 2 - Solution (Formulas & Python).docx
-   Data/                                 budget-vs-actual.xlsx
+   Data/                                 budget-vs-actual.xlsx (demo) +
+                                         sales-quota-vs-actual.xlsx (your turn)
 
 Session 3 - Build & Ship a Reusable Workflow/
+   Participant Guide.docx
    Capstone Brief.docx                   the final project + rubric
    Session 3 - Solution (Reusable Workflow).docx
-   Data/                                 monthly-expenses/, vendor-master, start file
+   Data/                                 monthly-expenses/ + vendor-master (demo);
+                                         your-turn-store-sales/ + store-master (your turn)
 ```
 
 Slides are delivered separately in the GenAI Works Academy "AI for Excel Slides"
