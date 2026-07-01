@@ -104,24 +104,26 @@ Practice work:
 * Complete a reusable Excel workflow
 * Share or document what the workflow does, what tools it uses, and where human review is still needed
 
-## Capstone Project
+## Capstone Project (Optional)
 
-The final project is a working AI-assisted Excel workflow built on your own data.
-It is the point of the course, not optional extra credit. Full details and the
-grading rubric are in `Session 3 - Build & Ship a Reusable Workflow/Capstone Brief.docx`.
+An optional, self-directed project: a working AI-assisted Excel workflow you
+build on your own time to lock in the course. **There's no submission, no
+deadline, and no grading** — it exists because building one is the best way to
+make the skills stick, and you walk away with something useful. Everything is in
+the top-level `Capstone/` folder.
 
 **How it works:**
 
-* **Started in Session 3** — class reserves time to begin building on your own (anonymized) data.
-* **Finished on your own** in the days after Session 3.
-* **Submitted by posting in the Slack `#capstones` channel** by the deadline (suggested: one week after Session 3) — your workbook (or a short screen recording), your run-book, and one line on where you still review the AI by hand.
-* **Not presented live** — there is no fourth session; sharing happens asynchronously in Slack, with peer feedback encouraged. (An optional voluntary "demo day" call is up to the instructor.)
-* **Graded against four criteria:** it repeats, AI was used well, it's documented, and you understand it.
+* **Build it on your own time**, using your own data or a ready-made scenario.
+* **No data you can use?** The `Capstone/` folder has three **Sample Scenarios**
+  with datasets — they sidestep the anonymizing question entirely.
+* **Know it's solid** by running it past the **Definition of Done** self-check.
+* **Share it in Slack only if you'd like** — welcome and encouraged, never required.
 
 Examples: a monthly reporting refresh, a repeatable data-cleaning pipeline, a
 summary report from raw data, or a formula troubleshooting and documentation
-workflow. The project should show you can use AI and modern Excel to reduce
-manual work while still reviewing and understanding the results.
+workflow. The goal is to use AI and modern Excel to cut manual work while still
+reviewing and understanding the results.
 
 ## How This Repository Is Organized
 
