@@ -158,10 +158,16 @@ Session 2 - Formulas, Analysis & Summaries/
 
 Session 3 - Build & Ship a Reusable Workflow/
    Participant Guide.docx
-   Capstone Brief.docx                   the final project + rubric
    Session 3 - Solution (Reusable Workflow).docx
    Data/                                 monthly-expenses/ + vendor-master (demo);
                                          your-turn-store-sales/ + store-master (your turn)
+
+Capstone/                                (the final project — launched in Session 3)
+   Capstone Brief.docx                   what it is, when, how to submit + rubric
+   Definition of Done.docx               "you're done when…" checklist + graded rubric + worked example
+   Sample Scenarios.docx                 3 ready-to-use scenarios (for learners without their own data)
+   Data/                                 datasets for each scenario (regional sales,
+                                         support tickets, marketing spend)
 ```
 
 Slides are delivered separately in the GenAI Works Academy "AI for Excel Slides"
