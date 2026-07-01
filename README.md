@@ -131,11 +131,12 @@ references sit in `Course Overview`.
 
 ```
 Instructor Notes/                        (general instructor docs)
+   How to Run the Demos (Step-by-Step).docx   START HERE: click-by-click script per session
    Facilitator Guide.docx                course logistics + how to run it
-   In-Session Practice.docx              demo / your turn / regroup activities
+   Backup Plans & Time-Fillers.docx      quiet-room insurance + Copilot "by the way"
    Read-Aloud Scripts.docx               per-slide delivery scripts
    Slack and Logistics.docx              running the cohort + Slack playbook
-   Session 1 - Run of Show.docx          minute-by-minute plans
+   Session 1 - Run of Show.docx          slide timing (light; run from the demo script)
    Session 2 - Run of Show.docx
    Session 3 - Run of Show.docx
 
